@@ -13,6 +13,7 @@
     "nodemon": "^2.0.19"
   },
   "dependencies": {
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "yargs": "^17.5.1"
   }
 }
